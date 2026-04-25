@@ -1,0 +1,1 @@
+select * from edw_dev_db1.edw_dev_sc1.employee
