@@ -1,0 +1,11 @@
+sources: 
+  - name: my_sou
+    database: edw_dev_db
+    schema: dbt_mmalli
+    tables:
+      - name: e_detail 
+  - name: my_emp_linga
+    database: edw_dev_db
+    schema: edw_dev_sc
+    tables:
+      - name: emp_linga

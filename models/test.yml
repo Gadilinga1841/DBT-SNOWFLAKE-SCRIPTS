@@ -1,0 +1,7 @@
+models:
+  - name: my_model5
+    columns:
+      - name: sno
+        tests:
+          - not_null
+          - check_dub

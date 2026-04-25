@@ -1,0 +1,1 @@
+select * from {{ ref('my_second_model') }} where sal>50000

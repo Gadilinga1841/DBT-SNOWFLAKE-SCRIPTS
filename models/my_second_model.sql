@@ -1,0 +1,1 @@
+select * from edw_dev_db.dbt_mmalli.emp_details

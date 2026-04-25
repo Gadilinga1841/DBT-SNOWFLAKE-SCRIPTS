@@ -1,0 +1,1 @@
+select * from {{ source('my_emp_linga', 'emp_linga') }}
